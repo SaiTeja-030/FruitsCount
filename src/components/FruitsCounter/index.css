@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffd569;
+  height: 100vh;
+  padding-top: 45px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.container {
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.img-1 {
+  height: 250px;
+  margin-right: 43px;
+  padding-top: 40px;
+}
+
+.img-2 {
+  height: 250px;
+  padding-top: 40px;
+  margin-left: 45px;
+}
+
+.heading {
+  padding-top: 45px;
+}
+
+.btn {
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+
+.mango {
+  background-color: #007bff;
+  padding: 13px;
+  color: white;
+  border-radius: 12px;
+  border-color: #007bff;
+  margin-right: 43px;
+}
+
+.banana {
+  background-color: #007bff;
+  padding: 13px;
+  color: white;
+
+  border-radius: 12px;
+  border-color: #007bff;
+  margin-left: 180px;
+}
